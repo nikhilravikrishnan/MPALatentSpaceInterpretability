@@ -1,3 +1,3 @@
-# Music Performance Assessment
+# Interpreting Music Performance Assessment Models using Latent Space Regularization
 
-Building a deep learning baesd model for modeling expert ratings of student performance assessments
+Experiments on using LSR with target scores as trainable parameters.
